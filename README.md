@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="460" height="460" src="https://i.hizliresim.com/27wmkhi.png">
+  <img width="700" height="250" src="https://i.hizliresim.com/27wmkhi.png">
 </p>
 
 
