@@ -4,6 +4,7 @@
 </p>
 
 
+# Heart Disease Prediction 
 
 One of the biggest challenges in heart disease is its detection. While there are existing
 tools that can predict heart diseases, calculating the probability of heart diseases is either
